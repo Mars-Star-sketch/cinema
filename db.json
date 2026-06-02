@@ -7,6 +7,30 @@
       "capa": "https://midias.imagemfilmes.com.br/capas/73327406-5182-4c5d-8005-28ecaac014bc_m.jpg?2026-05-21T13:28:40.836138",
       "favorito": true,
       "id": "-zeKKVjcSFI"
+    },
+    {
+      "titulo": "Guerra Dos Mundos",
+      "genero": "Terror",
+      "ano": "1992",
+      "capa": "https://m.media-amazon.com/images/M/MV5BNTdiNDY4M2QtZDgxZi00ZmRmLTkyMTktYjYzNjliMWVlOGZhXkEyXkFqcGc@._V1_.jpg",
+      "favorito": true,
+      "id": "Rscr1b12LlM"
+    },
+    {
+      "titulo": "Planeta Dos Macacos",
+      "genero": "Aventura",
+      "ano": "2011",
+      "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8c/War_for_the_Planet_of_the_Apes_2017.jpg/250px-War_for_the_Planet_of_the_Apes_2017.jpg",
+      "favorito": false,
+      "id": "IPE9o-KpvTE"
+    },
+    {
+      "titulo": "20th Century Boys",
+      "genero": "Aventura, Horror, Trama",
+      "ano": "2008",
+      "capa": "https://media.themoviedb.org/t/p/w780/cDyYWcavuvNKtf7VpNR86nWh5XF.jpg",
+      "favorito": true,
+      "id": "cw3iuDdZl0I"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
